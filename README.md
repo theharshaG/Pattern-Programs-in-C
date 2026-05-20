@@ -17,13 +17,13 @@ Coding interview preparation
 Prints a square pattern of stars.
 
 ### Output
-
+```text
 * * * * *
 * * * * *
 * * * * *
 * * * * *
 * * * * *
-
+```
 ## Concepts Used
 
 Nested loops
@@ -34,12 +34,13 @@ Row and column traversal
 Prints a right-angled triangle using stars.
 
 ### Output
-
+```text
 *
 * *
 * * *
 * * * *
 * * * * *
+```
 
 ## Concepts Used
 
@@ -51,12 +52,13 @@ Incremental pattern logic
 Prints a number triangle.
 
 ### Output
-
+```text
 1
 1 2
 1 2 3
 1 2 3 4
 1 2 3 4 5
+```
 
 ## Concepts Used
 
@@ -68,12 +70,13 @@ Number pattern generation
 Prints an inverted star triangle.
 
 ### Output
-
+```text
 * * * * *
 * * * *
 * * *
 * *
 *
+```
 
 ## Concepts Used
 
@@ -85,12 +88,13 @@ Reverse iteration
 Prints multiplication values in matrix form.
 
 ### Output
-
+```text
 1 2 3 4 5
 2 4 6 8 10
 3 6 9 12 15
 4 8 12 16 20
 5 10 15 20 25
+```
 
 ## Concepts Used
 
