@@ -16,7 +16,7 @@ Coding interview preparation
 
 Prints a square pattern of stars.
 
-## Output
+### Output
 
 * * * * *
 * * * * *
@@ -33,7 +33,7 @@ Row and column traversal
 
 Prints a right-angled triangle using stars.
 
-## Output
+### Output
 
 *
 * *
@@ -50,7 +50,7 @@ Incremental pattern logic
 
 Prints a number triangle.
 
-## Output
+### Output
 
 1
 1 2
@@ -67,7 +67,7 @@ Number pattern generation
 
 Prints an inverted star triangle.
 
-## Output
+### Output
 
 * * * * *
 * * * *
@@ -84,7 +84,7 @@ Reverse iteration
 
 Prints multiplication values in matrix form.
 
-## Output
+### Output
 
 1 2 3 4 5
 2 4 6 8 10
